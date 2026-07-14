@@ -1,1 +1,4 @@
+le.fit_transform() is most commonly used with LabelEncoder from scikit-learn. It performs two operations in one step:
 
+fit() → Learns the unique categories (labels) in your data.
+transform() → Converts those categories into numerical values.
